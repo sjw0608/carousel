@@ -2,7 +2,7 @@
 
 ## 使用
 
-```默认模板
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -46,7 +46,8 @@ $(function () {
 
 ## 配置参数
 
-```默认配置参数
+```javascript
+//配置参数
 data-setting = {
       width: 1000, //幻灯片的宽度
       height: 270, //幻灯片的高度
